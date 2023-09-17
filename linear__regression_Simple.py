@@ -39,9 +39,3 @@ intercept = (sum_y - slope * sum_x) / n
 
 print(f"Equation of the line: y = {slope:.2f}x + {intercept:.2f}")
 
-
-# In[ ]:
-
-
-
-
